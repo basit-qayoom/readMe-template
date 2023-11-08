@@ -49,13 +49,14 @@ Briefly introduce the project here.
 - **Bug Reporting**: Explain how to report bugs, including the format for bug reports and where to submit them.
 - **Testing Environment Setup**: If there are specific testing environment requirements, outline how to set them up.
 
-## Staging <a name="staging"></a>
+## Deployments <a name="deployments"></a>
 
-- **Deployment to Staging**: Describe how to deploy the project to a staging environment.
-- **Configuration for Staging**: Any configuration differences for the staging environment compared to development.
-- **Testing in Staging**: Explain how the project should be tested in the staging environment, including any additional test scenarios or steps.
-- **Staging Environment Access**: Provide access details or links to the staging environment for testing and review.
-- **Pre-release Checklist**: List the checks and verifications that should be performed before moving to production.
+In the **Deployments** section, you should provide information related to deploying the project to different environments. Include the following:
+
+- **Environments**: List the various deployment environments, such as development, staging, and production.
+- **Environment URLs**: Provide URLs or endpoints for accessing each environment.
+- **Jenkins Jobs**: If Jenkins is used for deployments, list the relevant Jenkins jobs or pipelines for each environment.
+- **Deployment Instructions**: Explain how to deploy the project to each environment, including any specific commands or steps.
 
 ## Contributing <a name="contributing"></a>
 
