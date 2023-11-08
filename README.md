@@ -78,8 +78,8 @@ In the **Deployments** section, you should provide information related to deploy
 
 We'd like to thank the following contributors for their valuable contributions to this project:
 
-- John Doe ([@pw-member-1](https://github.com/pw-member-1))
-- Jane Smith ([@pw-member-2](https://github.com/pw-member-2))
+- PW Member 1 ([@pw-member-1](https://github.com/pw-member-1))
+- PW Member 2 ([@pw-member-2](https://github.com/pw-member-2))
 - ...
 
 Thank you for your support and contributions!
