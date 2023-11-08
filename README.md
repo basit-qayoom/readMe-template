@@ -11,6 +11,7 @@ Short project description.
 6. [Testing](#testing)
 7. [Deployments](#deployments)
 8. [Contributing](#contributing)
+8. [Contributors List](#contributors-list)
 9. [License](#license)
 
 ## Introduction <a name="introduction"></a>
@@ -72,6 +73,16 @@ In the **Deployments** section, you should provide information related to deploy
 
 - Guidelines: How to contribute (code style, issue reporting, pull requests).
 - Code of Conduct: Link to the organization's code of conduct.
+
+### Contributors List <a name="contributors-list"></a>
+
+We'd like to thank the following contributors for their valuable contributions to this project:
+
+- John Doe ([@johndoe](https://github.com/johndoe))
+- Jane Smith ([@janesmith](https://github.com/janesmith))
+- ...
+
+Thank you for your support and contributions!
 
 ## License <a name="license"></a>
 
