@@ -53,10 +53,21 @@ Briefly introduce the project here.
 
 In the **Deployments** section, you should provide information related to deploying the project to different environments. Include the following:
 
-- **Environments**: List the various deployment environments, such as development, staging, and production.
-- **Environment URLs**: Provide URLs or endpoints for accessing each environment.
-- **Jenkins Jobs**: If Jenkins is used for deployments, list the relevant Jenkins jobs or pipelines for each environment.
-- **Deployment Instructions**: Explain how to deploy the project to each environment, including any specific commands or steps.
+| Environments   | Environment URLs             | Jenkins Jobs       | Deployment Instructions                                     |
+|----------------|------------------------------|--------------------|-------------------------------------------------------------|
+| Development    | http://dev.example.com       | DevDeployJob       | 1. Check out the code from the development branch.         |
+|                |                              |                    | 2. Run unit tests to ensure code quality.                  |
+|                |                              |                    | 3. Build the application.                                 |
+|                |                              |                    | 4. Deploy to the development server.                       |
+| Staging        | http://staging.example.com   | StagingDeployJob   | 1. Merge code into the staging branch.                    |
+|                |                              |                    | 2. Run integration tests on the staging server.            |
+|                |                              |                    | 3. Build the application with staging configurations.      |
+|                |                              |                    | 4. Deploy to the staging server.                           |
+| Production     | http://www.example.com       | ProductionDeployJob| 1. Merge code into the production branch.                  |
+|                |                              |                    | 2. Run end-to-end tests on the production environment.    |
+|                |                              |                    | 3. Build the application with production configurations.  |
+|                |                              |                    | 4. Deploy to the production server.                         |
+
 
 ## Contributing <a name="contributing"></a>
 
