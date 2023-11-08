@@ -9,7 +9,7 @@ Short project description.
 4. [Getting Started](#getting-started)
 5. [Usage](#usage)
 6. [Testing](#testing)
-7. [Deployment](#deployment)
+7. [Deployment](#deployments)
 8. [Contributing](#contributing)
 9. [License](#license)
 
