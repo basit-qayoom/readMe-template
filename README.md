@@ -63,9 +63,9 @@ In the **Deployments** section, you should provide information related to deploy
 |                |                              |                    | 2. Run integration tests on the staging server.            |
 |                |                              |                    | 3. Build the application with staging configurations.      |
 |                |                              |                    | 4. Deploy to the staging server.                           |
-| Production     | http://www.example.com       | ProductionDeployJob| 1. Merge Code properly. Merging code to development branch will autrigger deployement on development.                  |
-|                |                              |                    | 2. Please do the sanity once code is merged.    |
-|                |                              |                    |                          |
+| Production     | http://www.example.com       | ProductionDeployJob| 1. Ensure a proper code merge. Merging code into the development branch will automatically trigger deployment to the development environment.                  |
+|                |                              |                    | 2. After merging the code, please perform a sanity check.    |
+
 
 
 ## Contributing <a name="contributing"></a>
