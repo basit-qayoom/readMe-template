@@ -79,12 +79,32 @@ Explore the following sections for a smooth user experience:
 
 Ensure the project's robustness with comprehensive testing:
 
-- **Test Scenarios**: List various test scenarios and use cases.
-- **Test Data**: Specify sample data or inputs for testing.
-- **Test Automation**: Guidelines for running automated tests and tools used.
-- **Bug Reporting**: Instructions for reporting bugs and where to submit them.
-- **Testing Environment Setup**: Specific requirements for setting up the testing environment.
+| Test Type            | Description                                                                                     | Execution Command             |
+|----------------------|-------------------------------------------------------------------------------------------------|-------------------------------|
+| Unit Tests           | Test individual components or functions in isolation.                                           | `npm run test:unit`           |
+| Integration Tests    | Verify the interaction between multiple components or systems.                                   | `npm run test:integration`    |
+| End-to-End Tests     | Test the entire application flow from start to finish.                                           | `npm run test:e2e`            |
+| Performance Tests    | Evaluate the system's responsiveness and stability under different conditions.                 | `npm run test:performance`   |
+| Security Scans       | Identify and address security vulnerabilities in the codebase.                                   | `npm run test:security`      |
+| Code Coverage        | Assess the percentage of code covered by tests.                                                  | `npm run test:coverage`      |
 
+**Note**: Ensure you have the testing environment set up as described in the [Testing Environment Setup](#testing-environment-setup) section.
+
+### Test Scenarios
+
+- List various test scenarios and use cases that the testing team should cover.
+
+### Test Data
+
+- Specify sample data or inputs for testing.
+
+### Bug Reporting
+
+- Instructions for reporting bugs and where to submit them.
+
+### Testing Environment Setup <a name="testing-environment-setup"></a>
+
+Provide specific requirements for setting up the testing environment.
 ## Deployments <a name="deployments"></a>
 
 Facilitate smooth deployments across different environments:
