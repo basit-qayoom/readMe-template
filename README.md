@@ -56,11 +56,8 @@ In the **Deployments** section, you should provide information related to deploy
 
 | Environments   | Environment URLs             | Jenkins Jobs       | Deployment Instructions                                     |
 |----------------|------------------------------|--------------------|-------------------------------------------------------------|
-| Development    | http://dev.example.com       | DevDeployJob       | 1. Check out the code from the development branch.         |
-|                |                              |                    | 2. Run unit tests to ensure code quality.                  |
-|                |                              |                    | 3. Build the application.                                 |
-|                |                              |                    | 4. Deploy to the development server.                       |
-| Staging        | http://staging.example.com   | StagingDeployJob   | 1. Merge code into the staging branch.                    |
+| Development    | http://dev.example.com       | DevDeployJob       | 1. Check out the code from the development branch. Run unit tests to ensure code quality. Build the application.  Build the application.Deploy to the development server.                                                                                                                           |
+| Staging        | http://staging.example.com   | StagingDeployJob   | 1. Merge code into the staging branch.                     |
 |                |                              |                    | 2. Run integration tests on the staging server.            |
 |                |                              |                    | 3. Build the application with staging configurations.      |
 |                |                              |                    | 4. Deploy to the staging server.                           |
