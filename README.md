@@ -5,14 +5,15 @@ Short project description.
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Project Overview](#project-overview)
-3. [Prerequisites](#prerequisites)
-4. [Getting Started](#getting-started)
-5. [Usage](#usage)
-6. [Testing](#testing)
-7. [Deployments](#deployments)
-8. [Contributing](#contributing)
-8. [Contributors List](#contributors-list)
-9. [License](#license)
+3. [Tech Stack](#tech-stack)
+4. [Prerequisites](#prerequisites)
+5. [Getting Started](#getting-started)
+6. [Usage](#usage)
+7. [Testing](#testing)
+8. [Deployments](#deployments)
+9. [Contributing](#contributing)
+10. [Contributors List](#contributors-list)
+11. [License](#license)
 
 ## Introduction <a name="introduction"></a>
 
@@ -23,6 +24,29 @@ Briefly introduce the project here.
 - **Purpose**: Explain the project's purpose.
 - **Features**: List key features.
 - **Architecture**: Describe the technology stack and project structure.
+
+## Tech Stack <a name="tech-stack"></a>
+
+The project is built using the following technologies:
+
+- **Backend**:
+  - Framework: [Framework Name](link-to-framework)
+  - Database: [Database Name](link-to-database)
+  - Other technologies...
+
+- **Frontend**:
+  - Library: [Library Name](link-to-library)
+  - UI Framework: [UI Framework Name](link-to-ui-framework)
+  - Other technologies...
+
+- **Testing**:
+  - Testing Framework: [Testing Framework Name](link-to-testing-framework)
+  - Other testing tools...
+
+- **Deployment**:
+  - Continuous Integration: [CI Tool Name](link-to-ci-tool)
+  - Containerization: [Containerization Tool Name](link-to-containerization-tool)
+  - Other deployment tools...
 
 ## Prerequisites <a name="prerequisites"></a>
 
@@ -63,7 +87,6 @@ In the **Deployments** section, you should provide information related to deploy
 |                |                              |                    | 4. Deploy to the staging server.                           |
 | Production     | http://www.example.com       | ProductionDeployJob| 1. Ensure a proper code merge. Merging code into the development branch will automatically trigger deployment to the development environment.                  |
 |                |                              |                    | 2. After merging the code, please perform a sanity check.    |
-
 
 
 ## Contributing <a name="contributing"></a>
