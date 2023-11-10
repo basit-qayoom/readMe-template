@@ -1,6 +1,6 @@
- Question-bank-fe
+# Question-bank-fe
 
- QBG (Question Bank Generator) is a system which has a multitude of structured questions and answers on a range of topics for the classes/batches. These questions and answers can be used to auto-generate (database-driven) template based SEO landing pages. SEO is an important user acquisition channel and implementation of the database driven SEO landing pages will boost the SEO traffic to our website. With proper schema markup implementation, these Q&As also show up as a "Questions and answers" featured snippet on SERP. 
+QBG (Question Bank Generator) is a system which has a multitude of structured questions and answers on a range of topics for the classes/batches. These questions and answers can be used to auto-generate (database-driven) template based SEO landing pages. SEO is an important user acquisition channel and implementation of the database driven SEO landing pages will boost the SEO traffic to our website. With proper schema markup implementation, these Q&As also show up as a "Questions and answers" featured snippet on SERP. 
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -17,62 +17,62 @@
 ## Introduction <a name="introduction"></a>
 
 Briefly introduce the project here.
-    QBG (Question Bank Generator) is a system which has a multitude of structured questions and answers on a range of topics for the classes/batches. These questions and answers can be used to auto-generate (database-driven) template based SEO landing pages. SEO is an important user acquisition channel and implementation of the database driven SEO landing pages will boost the SEO traffic to our website. With proper schema markup implementation, these Q&As also show up as a "Questions and answers" featured snippet on SERP. 
+QBG (Question Bank Generator) is a system which has a multitude of structured questions and answers on a range of topics for the classes/batches. These questions and answers can be used to auto-generate (database-driven) template based SEO landing pages. SEO is an important user acquisition channel and implementation of the database driven SEO landing pages will boost the SEO traffic to our website. With proper schema markup implementation, these Q&As also show up as a "Questions and answers" featured snippet on SERP. 
 
 ## Project Overview <a name="project-overview"></a>
 
 - **Purpose**: Explain the project's purpose.
-    The objective is:
-    Students should be able to find PW Q&A page while searching for questions on Google - Acquisition through search engine
-    Students should be able to navigate to the Q&A page while searching for questions directly on PW web - ease of usage for PW's captive   audience (increase adoption of Q&A section)
-    Image and text search both should be supported on PW - Ask doubt capability of Saarthi - To be enabled on website as well
-    Students are able to utilise QBG for practising topic-wise problems with filters and sort options like difficulty level, popularity, previous year questions - QBG categorisation to be enhanced as well 
-    Identify the next action(s) we want the user to take
+The objective is:
+Students should be able to find PW Q&A page while searching for questions on Google - Acquisition through search engine
+Students should be able to navigate to the Q&A page while searching for questions directly on PW web - ease of usage for PW's captive   audience (increase adoption of Q&A section)
+Image and text search both should be supported on PW - Ask doubt capability of Saarthi - To be enabled on website as well
+Students are able to utilise QBG for practising topic-wise problems with filters and sort options like difficulty level, popularity, previous year questions - QBG categorisation to be enhanced as well 
+Identify the next action(s) we want the user to take
 
 - **Features**: List key features.
-    Students will search questions without login . 
-    They can upload images of questions and get response 
+Students will search questions without login . 
+They can upload images of questions and get response 
 
 - **Architecture**: Describe the technology stack and project structure.
-    Will be using NextJs to create all components
+Will be using NextJs to create all components
 
-    Shared Components yet to be decided to use npm package or submodules
+Shared Components yet to be decided to use npm package or submodules
 
-    SSR or SSG pages will be decided based on stress test on NextJs
+SSR or SSG pages will be decided based on stress test on NextJs
 
-    Unit test will be incorporated using Jest and react testing library
+Unit test will be incorporated using Jest and react testing library
 
-    Typescript will be used with proper type check
+Typescript will be used with proper type check
 
-    Linting will be done (next lint / other industry standard linting)
+Linting will be done (next lint / other industry standard linting)
 
-    Pre commit hooks will be incorporated – Husky
+Pre commit hooks will be incorporated – Husky
 
-    Will Dockerise 
+Will Dockerise 
 
-    Creation of CI/CD pipeline in gitlab for linting and test case coverage
+Creation of CI/CD pipeline in gitlab for linting and test case coverage
 
-    Will use third party carousel for slider
+Will use third party carousel for slider
 
 - you can check architecture here -> https://physicswallah001.atlassian.net/wiki/spaces/EN/pages/edit-v2/205357073
 
 ## Prerequisites <a name="prerequisites"></a>
 
-    Nextjs
-    Tailwind css
-    jest testing library
-    use Dockerise
-    Husky for pre-commits
+Nextjs
+Tailwind css
+jest testing library
+use Dockerise
+Husky for pre-commits
 - ...
 
 ## Getting Started <a name="getting-started"></a>
 
 - Installation: Instructions for setting up the project.
-    npm run dev
+npm run dev
 - Configuration: Configuration files or environment variables.
-    .env
+.env
 - Initialization: Database setup, migrations, or seeding.
-    ...
+...
 
 
 ## Usage <a name="usage"></a>
@@ -80,7 +80,7 @@ Briefly introduce the project here.
 - Examples: Code examples or usage scenarios.
 
 - API Documentation: Link to or embed API documentation.
-    
+
 - Screenshots: Include visuals to help users understand.
 
 
