@@ -133,8 +133,8 @@ We welcome contributions! Please follow these guidelines:
 
 A big thanks to our contributors for their valuable input and effort:
 
-- PW Member 1 ([@pw-member-1](https://github.com/pw-member-1))
-- PW Member 2 ([@pw-member-2](https://github.com/pw-member-2))
+- PW Member 1 (PW-XXXXX)
+- PW Member 2 (PW-XXXXX)
 - ...
 
 Thank you for your support and contributions!
