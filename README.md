@@ -11,7 +11,7 @@ A concise yet descriptive project overview.
 5. [Usage](#usage)
 6. [Testing](#testing)
 7. [Deployments](#deployments)
-8. [Contributors List](#contributors-list)
+8. [Contributors](#contributors)
 9. [License](#license)
 
 ## Project Overview <a name="project-overview"></a>
