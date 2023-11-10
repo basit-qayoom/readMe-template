@@ -88,4 +88,4 @@ This project is licensed under **PW**.
 
 ## Note <a name="note"></a>
 
-👉 Need more tips on crafting an awesome README? Check out this guide for creating killer READMEs: [Click here](https://shorturl.at/iyBGU)
+👉 Hey fellow devs, want your README to shine brighter than a syntax-highlighted unicorn? Check this guide for crafting killer READMEs! [Click here](https://shorturl.at/iyBGU)
